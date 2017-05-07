@@ -1,0 +1,5 @@
+$("td").each(function(){
+    if($(this).text()=='Ëæ±ãÆğ¸öÃû')
+    {console.log(this)
+a = $(this).last();}
+})
